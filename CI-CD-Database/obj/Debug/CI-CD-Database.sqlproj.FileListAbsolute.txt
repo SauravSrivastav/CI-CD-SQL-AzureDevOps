@@ -1,0 +1,10 @@
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\bin\Debug\CI-CD-Database.dacpac
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\bin\Debug\CI_CD_Database.dll
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\bin\Debug\CI_CD_Database.pdb
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\obj\Debug\CI-CD-Database.sqlprojAssemblyReference.cache
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\obj\Debug\Model.xml
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\obj\Debug\refactor.xml
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\obj\Debug\postdeploy.sql
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\obj\Debug\predeploy.sql
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\obj\Debug\CI_CD_Database.dll
+C:\Users\saurav.srivastava\Desktop\Learning-Azure-DevOps\CI-CD-Database\CI-CD-Database\obj\Debug\CI_CD_Database.pdb
